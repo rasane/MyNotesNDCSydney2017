@@ -1,0 +1,12 @@
+1. MS - EEG Jeniffer 
+Talk: Keynote: Using EEG and Machine Learning to Perform Lie Detection
+
+emotiv headset
+https://www.emotiv.com/product-category/mobile-eeg-headsets/
+
+user experience driven through users mental model/place to drive interest/responses
+
+14 ensors eeach giving a data point on brain elec(?) ativity
+- leverage https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet
+http://aka.ms/HackML
+
